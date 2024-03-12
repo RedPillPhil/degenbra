@@ -7633,7 +7633,7 @@
 						name: "Slinky",
 						address: "0xF832cA45a6316F0a4447b861f36De8FFa2B06D82",
 						decimals: 6,
-						tax: 0
+						tax: 1
 					}, {
 						name: "USDC",
 						address: "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",

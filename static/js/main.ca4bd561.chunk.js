@@ -7630,9 +7630,9 @@
 					gas: "ETH",
 					wrapped: "WETH",
 					tokens: [{
-						name: "DBX",
-						address: "0x0b257fe969d8782fAcb4ec790682C1d4d3dF1551",
-						decimals: 18,
+						name: "Slinky",
+						address: "0xF832cA45a6316F0a4447b861f36De8FFa2B06D82",
+						decimals: 6,
 						tax: 0
 					}, {
 						name: "USDC",
